@@ -10,4 +10,4 @@ You can learn python programming right here!
 
 
 
-install python from url("python", "www.python.org") site
+install python from python.org
