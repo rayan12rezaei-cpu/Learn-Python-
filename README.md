@@ -6,3 +6,8 @@ You can learn python programming right here!
 **Don't you know how to start?** _Read these files and learn everything!_
 
 # By Rayan
+
+
+
+
+install python from url("python", "www.python.org") site
