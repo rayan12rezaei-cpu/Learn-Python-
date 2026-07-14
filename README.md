@@ -8,6 +8,4 @@ You can learn python programming right here!
 # By Rayan
 
 
-
-
-install python from python.org
+install python from "python.org"
